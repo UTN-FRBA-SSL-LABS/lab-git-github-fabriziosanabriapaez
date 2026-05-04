@@ -17,7 +17,7 @@ int restar(int a, int b) {
 /* Devuelve el producto entre dos enteros*/
 // Descarte de void
 
-int multiplicar(int a, int b) {
+int multiplicar(const int a, const int b) {
     return a * b;
 }
 
