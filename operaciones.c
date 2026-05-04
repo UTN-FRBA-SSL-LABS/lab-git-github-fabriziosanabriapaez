@@ -15,6 +15,7 @@ int restar(int a, int b) {
 /* ── multiplicar — implementar en feature/mi-funcion ─────────────────────── */
 
 /* Devuelve el producto entre dos enteros*/
+// Descarte de void
 
 int multiplicar(int a, int b) {
     return a * b;
